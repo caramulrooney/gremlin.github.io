@@ -8,5 +8,4 @@ plugins:
   - jekyll-include-cache
 
 gem "minimal-mistakes-jekyll"
-bundle
 
